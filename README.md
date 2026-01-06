@@ -8,5 +8,7 @@
 ---
 ![](https://skillicons.dev/icons?i=github,vscode,git,blender,figma,linux)
 ---
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=uniqqqqque)](https://github.com/uniqqqqque/github-readme-stats)
----
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=uniqqqqque&show_icons=true&theme=github_dark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uniqqqqque&layout=compact&theme=github_dark" />
+</p>
