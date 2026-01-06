@@ -2,9 +2,9 @@
 ---
 **Languages**:
 ---
-![](https://skillicons.dev/icons?i=python,html,css,tailwind,js)
+![](https://skillicons.dev/icons?i=py,html,css,tailwind,js)
 ---
 **Tools**:
 ---
-![](https://skillicons.dev/icons?i=github,vscode,git)
+![](https://skillicons.dev/icons?i=github,vscode,git,blender,figma,linux)
 ---
