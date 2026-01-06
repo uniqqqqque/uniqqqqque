@@ -19,7 +19,6 @@
 ---
 
 <p align="center">
-  <img height="170" src="https://stats-github-readme.vercel.app/api?username=uniqqqqque&show_icons=true&theme=tokyonight" />
-  <img height="170" src="https://stats-github-readme.vercel.app/api/top-langs/?username=uniqqqqque&layout=compact&theme=tokyonight" />
+  <img src="https://stats-github-readme.vercel.app/api?username=uniqqqqque&show_icons=true&theme=tokyonight" />
+  <img src="https://stats-github-readme.vercel.app/api/top-langs/?username=uniqqqqque&layout=compact&theme=tokyonight" />
 </p>
-
