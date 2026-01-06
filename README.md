@@ -2,7 +2,7 @@
 ---
 **Languages**:
 ---
-![](https://skillicons.dev/icons?i=python,pascal,html,css,tailwind,js)
+![](https://skillicons.dev/icons?i=python,html,css,tailwind,js)
 ---
 **Tools**:
 ---
