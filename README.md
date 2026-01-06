@@ -8,3 +8,5 @@
 ---
 ![](https://skillicons.dev/icons?i=github,vscode,git,blender,figma,linux)
 ---
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=uniqqqqque)](https://github.com/anuraghazra/github-readme-stats)
+---
