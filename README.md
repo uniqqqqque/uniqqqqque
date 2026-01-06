@@ -4,16 +4,9 @@
 
 ---
 
-### Languages
+### Languages + Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,html,css,tailwind,js" />
-</p>
-
----
-
-### Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=github,vscode,git,blender,figma,linux" />
+  <img src="https://skillicons.dev/icons?i=py,html,css,tailwind,js,github,vscode,git,blender,figma,linux" />
 </p>
 
 ---
